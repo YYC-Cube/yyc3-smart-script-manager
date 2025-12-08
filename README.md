@@ -510,7 +510,7 @@ kubectl get pods -n yyc3-system
 
 ### 联系方式
 - **GitHub**: https://github.com/YYC-Cube/yyc3-smart-script-manager
-- **邮箱**: support@yyc3.com
+- **邮箱**: admin@0379.email
 - **文档**: https://docs.yyc3.com/smart-script-manager
 - **社区**: https://community.yyc3.com
 
