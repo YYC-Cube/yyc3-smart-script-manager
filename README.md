@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/yyc3-family.png" alt="YYC³ Family" width="720">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YYC3-Family-00d4ff?style=flat-square" alt="YYC3 Family">
+  <img src="https://img.shields.io/github/license/YYC-Cube/YYC3-Claude-Code/yyc3-smart-script-manager?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/last-commit/YYC-Cube/YYC3-Claude-Code/yyc3-smart-script-manager?style=flat-square" alt="Last Commit">
+</p>
+
 # YYC³ 智能脚本生成和管理系统
 
 > **版本**: v1.0.0 | **创建时间**: 2025-12-08 | **维护团队**: YYC3 AI Family
